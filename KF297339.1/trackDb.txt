@@ -1,0 +1,11 @@
+track KF297339.1
+type bigGenePred
+group map
+priority 1
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/TB40E-DNT2/master/KF297339.1/KF297339.1.bb
+longLabel Annotated CDS for HCMV strain TB40-E (KF297339.1)
+shortLabel GenBank KF297339.1
+visibility pack
+
+#############
+	
