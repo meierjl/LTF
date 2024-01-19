@@ -36,7 +36,7 @@ track 12h_RV
 parent 12h on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-12h-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-12h-dedup-RV-KF297339.1.bw 
 longLabel 12h
 shortLabel 12h
 negateValues on
@@ -75,7 +75,7 @@ track 24h_RV
 parent 24h on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-24h-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-24h-dedup-RV-KF297339.1.bw 
 longLabel 24h
 shortLabel 24h
 negateValues on
@@ -114,7 +114,7 @@ track 24h-PFA_RV
 parent 24h-PFA on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-24h-PFA-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-24h-PFA-dedup-RV-KF297339.1.bw 
 longLabel 24h PFA
 shortLabel 24h PFA
 negateValues on
@@ -153,7 +153,7 @@ track 36h_RV
 parent 36h on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-36h-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-36h-dedup-RV-KF297339.1.bw 
 longLabel 36h
 shortLabel 36h
 negateValues on
@@ -192,7 +192,7 @@ track 36h-PFA_RV
 parent 36h-PFA on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-36h-PFA-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-36h-PFA-dedup-RV-KF297339.1.bw 
 longLabel 36h PFA
 shortLabel 36h PFA
 negateValues on
@@ -231,7 +231,7 @@ track 48h_RV
 parent 48h on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-48h-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-48h-dedup-RV-KF297339.1.bw 
 longLabel 48h
 shortLabel 48h
 negateValues on
@@ -269,7 +269,7 @@ track 48h-42h-PFA_RV
 parent 48h-42h-PFA on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-48h-42h-PFA-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-48h-42h-PFA-dedup-RV-KF297339.1.bw 
 longLabel 48h 42h-PFA
 shortLabel 48h 42h-PFA
 negateValues on
@@ -308,7 +308,7 @@ track 48h-PFA_RV
 parent 48h-PFA on
 type bigWig 0 1000
 visibility full
-https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-48h-PFA-dedup-RV-KF297339.1.bw 
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/2020-07-17-48h-PFA-dedup-RV-KF297339.1.bw 
 longLabel 48h PFA
 shortLabel 48h PFA
 negateValues on
