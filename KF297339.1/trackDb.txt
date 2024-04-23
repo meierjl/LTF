@@ -320,3 +320,41 @@ maxHeightPixels 128:128:16
 
 ##########
 
+track 72h
+compositeTrack on
+type bigWig 0 1000
+group 72h
+priority 9.5
+visibility full
+shortLabel 72h Flavo
+longLabel 72h Flavo
+ 
+track 72h_FW
+parent 72h on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/GSM5623316_2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-FW.bw
+longLabel 72h
+shortLabel 72h
+negateValues off
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+ 
+track 72h_RV
+parent 72h on
+type bigWig 0 1000
+visibility full
+bigDataUrl https://meierjl:Cmv2019!!@raw.githubusercontent.com/meierjl/LTF/master/KF297339.1/PRO-Seq/GSM5623316_2018-08-07-HFF-TB40e-72hpi-Flavo-KF297339.1-SIC-RV.bw
+longLabel 72h
+shortLabel 72h
+negateValues on
+color 153,58,29
+altColor 153,58,29
+alwaysZero on
+autoScale on
+maxHeightPixels 128:128:16
+
+##########
