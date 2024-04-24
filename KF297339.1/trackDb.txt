@@ -597,11 +597,11 @@ maxHeightPixels 128:128:16
 track 48h-42h-PFA-5Prime
 compositeTrack on
 type bigWig 0 1000
-group 48h-42h-PFA -5Prime
+group 48h-42h-PFA-5Prime
 priority 9.5
 visibility full
-shortLabel 48h 42hPFA Flavo 5Prime
-longLabel 48h 42hPFA Flavo 5Prime
+shortLabel 48h 42h-PFA Flavo 5Prime
+longLabel 48h 42h-PFA Flavo 5Prime
  
 track 48h-42h-PFA-5Prime_FW
 parent 48h-42h-PFA-5Prime on
